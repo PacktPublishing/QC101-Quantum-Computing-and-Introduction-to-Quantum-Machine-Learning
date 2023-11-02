@@ -1,0 +1,4 @@
+Qiskit Code Resources
+This lesson contains downloadable resources for Qiskit.
+
+Download the zip file named 'resources.zip' and extract the python files to a folder before continuing.

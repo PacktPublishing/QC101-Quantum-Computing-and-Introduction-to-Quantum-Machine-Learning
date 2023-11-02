@@ -1,0 +1,14 @@
+Introduction to Quantum Physics
+The video lessons that follow in this section will provide you with an intuitive understanding of quantum physics.
+
+Quantum physics is difficult for us to experience with simple experiments because it usually deals with the behavior of extremely small particles.
+
+But quantum physics also governs the behavior of light. We can understand quantum physics by studying how light behaves.
+
+Light has a property called polarization. Photons of light are polarized at a specific angle. We can perform experiments with polarizers that alter the polarization of light.
+
+The fundamental unit of quantum computation is a 'quantum bit' or qubit. Polarized photons behave like qubits. By studying polarization of light, we can understand how qubits behave.
+
+
+
+Let's get started.

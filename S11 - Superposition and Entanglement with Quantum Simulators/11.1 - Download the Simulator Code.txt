@@ -1,0 +1,14 @@
+Download the Simulator Code
+In this section, I will help you understand how superposition and entanglement works using simulators.
+
+I wrote the simulators using Java.
+
+The code is in a zip file named 'simulator.zip' that can be downloaded as a resource for this lesson.
+
+------------------------------
+
+Download the resource file for this lesson before proceeding. You will need the zip file in subsequent lessons.
+
+------------------------------
+
+The next lesson explains how to run the simulator code using Java.

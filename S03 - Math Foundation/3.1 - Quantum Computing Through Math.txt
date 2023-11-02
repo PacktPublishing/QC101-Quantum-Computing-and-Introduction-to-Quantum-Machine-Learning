@@ -1,0 +1,19 @@
+Quantum Computing Through Math
+Quantum Computing is best understood through math.
+
+If you are a developer, you might be familiar with the idea of a CPU that executes instructions in memory one by one in sequence. This is known as the Von Neumann architecture for digital computers. Quantum computers do not use this model of computation.
+
+Quantum programs are a sequence of quantum gates on a circuit. The behavior of these quantum gates is described by matrices of complex numbers. These complex numbers in the matrices affect the probabilities of qubit measurements.
+
+To understand quantum computing, you must first master linear algebra (the algebra of matrices), complex numbers, and the theory of probability.
+
+You probably studied these topics in high school. If you have forgotten high school math, then the following video lessons will act as a refresher.
+
+
+
+Please note that the following lessons are merely a refresher to help you remember what you learned earlier in high school. This is not a replacement for two years of high-school math. If you did not study math at the 11th and 12th grade level in high school, then you must first study those topics before proceeding with this course. It is not possible to explain two years of math lessons in a few hours of video.
+
+
+
+Let's get started.
+

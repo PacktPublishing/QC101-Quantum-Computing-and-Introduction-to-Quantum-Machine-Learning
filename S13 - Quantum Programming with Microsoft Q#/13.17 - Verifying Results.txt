@@ -1,0 +1,4 @@
+Verifying Results
+If you are trying to verify results:
+
+The Microsoft Q# code has the ordering of the qubits from right to left (q2,q1,q0), whereas in the state vector for multi qubits the ordering of the qubits is from left to right (q0,q1,q2). If you try to verify the results by multiplying by the CCNOT matrix, you will find that you need to reverse the ordering of the qubits.

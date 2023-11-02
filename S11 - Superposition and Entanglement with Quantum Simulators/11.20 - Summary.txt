@@ -1,0 +1,4 @@
+Summary
+This section has explained superposition and entanglement in a physically correct manner.
+
+Instead of analogies, we used simulators to understand how quantum systems behave.

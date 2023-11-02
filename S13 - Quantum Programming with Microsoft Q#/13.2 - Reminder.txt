@@ -1,0 +1,8 @@
+Reminder
+WAIT !
+
+Did you download the resource file QB4.zip in the previous lesson?
+
+If you haven't, please take a moment to download the zip file now.
+
+I will be discussing the sample code in the file QB4.qs over the next few lessons. Having the file on your computer will make it easier for you to follow along.

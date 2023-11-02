@@ -1,0 +1,4 @@
+Computing Eigen Values
+In quantum computing, you will be given the eigen vectors and you will need to compute the eigen values. Finding eigen values is simple - just multiply the matrix by the eigen vector, and then factor out the eigen value from the result.
+
+Finding eigen vectors involves complex simultaneous equations. Fortunately, you will not need to compute eigen vectors while programming quantum computers.

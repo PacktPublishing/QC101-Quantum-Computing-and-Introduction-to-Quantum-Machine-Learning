@@ -1,0 +1,4 @@
+IBM Quantum - Note
+The next lesson will discuss IBM's Quantum Computing system. The URL of the web site has changed. It is now:
+
+IBM Quantum - https://quantum-computing.ibm.com/

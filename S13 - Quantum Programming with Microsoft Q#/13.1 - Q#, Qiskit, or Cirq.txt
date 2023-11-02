@@ -1,0 +1,10 @@
+Q#, Qiskit, or Cirq?
+Should you learn Q#, Qiskit, or Cirq?
+
+It really doesn't matter. All three toolkits are merely different ways to get a quantum circuit loaded into a quantum computer. These are just tools you use to manage the I/O operations required to use a quantum computer. Learn enough to run your own quantum circuits. That is all you need.
+
+Quantum computing is about math and physics, not coding.
+
+As an analogy, think about the process of designing a new car. Designing a car is all about math and physics. Everything about how the car handles on the road depends on physics. To get the car into production, you might need to make 3D models using software like AutoCAD. AutoCAD is merely a way to communicate your design to the factory. Expertise in AutoCAD might make you a better factory technician, but it doesn't make you a better car designer!
+
+Similarly, it is not worthwhile for a quantum programmer to become an expert in any of these toolkits. You only need to know enough to run quantum simulators and test quantum circuits. Instead, invest your time in learning more about the mathematics of quantum physics.
